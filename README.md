@@ -34,7 +34,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/debmalya37/password-generator.git
    ```
 
 2. Navigate to the project directory:
@@ -55,7 +55,7 @@ To run the application locally, follow these steps:
    npm run dev
    ```
 
-5. Access the password generator application at http://localhost:3000 in your web browser.
+5. Access the password generator application at (http://127.0.0.1:5173/) in your web browser.
 
 ### Contributions and Issues
 
@@ -69,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE). For more information,
 
 For any inquiries or feedback related to the application, feel free to reach out to the developer via:
 
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Email: your-email@example.com
+- Twitter: [@debmalyasen37](https://twitter.com/debmalyasen37)
+- Email: debmalyasen37@gmail.com
 
 Your support and engagement are highly appreciated!
