@@ -2,6 +2,8 @@
 
 A secure and user-friendly password generator web application built with Vite and React. This application allows users to generate complex and customizable passwords, ensuring robust security for various accounts and platforms. With an intuitive interface and efficient functionalities, users can effortlessly create and manage strong passwords.
 
+![WhatsApp Image 2023-11-08 at 10 38 19_b826bbc0](https://github.com/debmalya37/React-Password-Generator/assets/101260950/ed0efb53-582f-4d84-a388-50a8f48a5728)
+
 ### Features
 
 - **Password Customization:** Generate passwords of varying lengths, including numbers and special characters, enhancing the strength and complexity of the generated passwords.
@@ -26,6 +28,7 @@ A secure and user-friendly password generator web application built with Vite an
 2. **Include Numbers:** Enable the option to include numbers in the password for enhanced complexity and security.
 3. **Include Special Characters:** Enable the option to include special characters in the password, ensuring even stronger password security.
 4. **Copy Password:** Effortlessly copy the generated password to the clipboard with the click of a button, making it readily available for use across various platforms and accounts.
+![WhatsApp Image 2023-11-08 at 12 59 32_ab051226](https://github.com/debmalya37/React-Password-Generator/assets/101260950/8ec6a719-6179-4928-ba7c-6a33ea30cd1f)
 
 ### Installation
 
